@@ -4,4 +4,4 @@ http://www.kgeorgiy.info/courses/java-advanced/homeworks.html
 
 
 
-ps variable's  names are random
+ps variables  names are random
